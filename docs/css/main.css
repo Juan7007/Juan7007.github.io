@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(51, 169, 248);
+}
+.name{
+    color: rgb(0, 255, 255);
+}
+.img-container{
+    text-align: center;
+}
